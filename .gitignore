@@ -1,0 +1,6 @@
+.idea/
+*.pyc
+*~
+/build
+/dist
+/rinoh_typeface_notosanscjk.egg-info
